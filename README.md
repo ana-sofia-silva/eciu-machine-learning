@@ -1,4 +1,4 @@
-# ECIU Machine Learning micromodule
+ECIU Machine Learning Micromodule
 
 ## Recognition of the American Sign Language Alphabet using Deep Learning
 
